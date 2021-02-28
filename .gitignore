@@ -1,0 +1,8 @@
+# Ignore executable file
+main.exe
+
+# Ignore IDE specific files
+.vscode/
+
+# Ignore path-file
+path.txt
